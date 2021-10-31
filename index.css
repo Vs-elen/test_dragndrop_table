@@ -1,0 +1,17 @@
+.table {
+    border: 1px solid rgba(76, 14, 192, 0.199);
+    border-collapse: collapse;
+}
+
+.table th {
+    background: #7a70886e;
+	border: 1px solid #dddddd;
+}
+
+.table td {
+    border: 1px solid rgba(76, 14, 192, 0.199);
+}
+.table th,
+.table td {
+    padding: 0.5rem;
+}
